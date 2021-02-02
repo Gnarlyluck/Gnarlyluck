@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+<div class="stats">
+ <h2>Github Stats</h2>
+ <img width="100%" height="300px" src="https://github-readme-stats.vercel.app/api?username=Gnarlyluck80&show_icons=true&theme=react" />
+</div>
+<div>
 <!--
 **Gnarlyluck/Gnarlyluck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
