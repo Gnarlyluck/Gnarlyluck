@@ -26,6 +26,8 @@
     <img width="12%" height=30px" src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack" />
   </div>
 </div>
+                                                                                                               
+                                                                                                               
 <div>
     <a href="https://schuylerluckey.netlify.app/"><img src="https://img.shields.io/badge/-Personal_Website-000000?style=flat-square&logo=Coderwall&logoColor=white" />  </a>
     <a href="https://www.linkedin.com/in/schuyler-luckey/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" />  </a>
