@@ -1,7 +1,7 @@
 ### Hi there, My name is Schuyler. Welcome to my gihub page.
 <div class="stats">
- <h2>Github Stats</h2>
- <img width="100%" height="300px" src="https://github-readme-stats.vercel.app/api?username=Gnarlyluck&show_icons=true&theme=react" />
+   <h2>Github Stats</h2>
+   <img width="100%" height="300px" src="https://github-readme-stats.vercel.app/api?username=Gnarlyluck&show_icons=true&theme=react" />
 </div>
 <div>
  <h2>Technologies</h2>
@@ -24,9 +24,10 @@
     <img width="12%" height=30px" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
     <img width="12%" height=30px" src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code" />
     <img width="12%" height=30px" src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack" />
-  </div>
-</div>
-                                                                                                               
+   </div>
+ </div>
+ 
+ <hr>
                                                                                                                
 <div>
     <a href="https://schuylerluckey.netlify.app/"><img src="https://img.shields.io/badge/-Personal_Website-000000?style=flat-square&logo=Coderwall&logoColor=white" />  </a>
