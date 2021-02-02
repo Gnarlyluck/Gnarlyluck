@@ -24,9 +24,15 @@
     <img width="12%" height=30px" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
     <img width="12%" height=30px" src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code" />
     <img width="12%" height=30px" src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack" />
-    <img width="12%" height=30px" src="https://img.shields.io/badge/-Zoom-black?style=flat-square&logo=zoom" />
   </div>
 </div>
+<div>
+    <a href="https://schuylerluckey.netlify.app/"><img src="https://img.shields.io/badge/-Personal_Website-000000?style=flat-square&logo=Coderwall&logoColor=white" />  </a>
+    <a href="https://www.linkedin.com/in/schuyler-luckey/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" />  </a>
+    <a href="https://github.com/Gnarlyluck"><img src="https://img.shields.io/github/followers/mlackey9601?color=black&label=GitHub&logo=GitHub&logoColor=white&style=flat-square" />  </a>
+    <a href="mailto: schuylerluckey@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" />  </a>
+  </div>
+                                                                                                                                                 
 <!--
 **Gnarlyluck/Gnarlyluck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
