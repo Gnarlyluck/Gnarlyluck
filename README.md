@@ -6,7 +6,7 @@
 <div>
  <h2>Technologies</h2>
     <div align="left">
-      <img width="60%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CDidier80&layout=compact&theme=react" />
+      <img width="60%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gnarlyluck&layout=compact&theme=react" />
     </div>
    <div width="39%" align="right">
     <img width="12%" height=30px" src="https://img.shields.io/badge/-HTML5-E34F26?style=plastic-square&logo=html5&logoColor=white" />
