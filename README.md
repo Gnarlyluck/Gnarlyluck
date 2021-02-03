@@ -1,5 +1,5 @@
 ### Hi there, My name is Schuyler. Welcome to my github page.
-<div><img width="12%" height=30px" src="https://www.codewars.com/users/gnarlyluck/badges/small" /></div>
+<div><img width="12%" height=30px" src="https://www.codewars.com/users/gnarlyluck/badges/large" /></div>
 <div class="stats">
    <h2>Github Stats</h2>
    <img width="100%" height="300px" src="https://github-readme-stats.vercel.app/api?username=Gnarlyluck&show_icons=true&theme=react" />
